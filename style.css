@@ -1,0 +1,87 @@
+*{
+    font-family: Arial, Helvetica, sans-serif;
+}
+header nav div li a{
+    text-decoration-line: none;
+    font-family: "Sofia";
+    text-shadow: 2px 2px 5px red;
+}
+
+.home{
+    color: ghostwhite;
+}
+body{
+    background-image: url(Pictures/pbg-5.jpg); background-repeat: no-repeat; background-size: cover; background-position: center;
+    text-decoration: aqua;
+    background-attachment: ;
+}
+p{
+    margin: 3.5%;
+    font-family: sans-serif;
+    font-size: 25px;
+    color: ghostwhite;
+}
+h1{
+    color: ghostwhite;
+    font-style: oblique;
+    font-size: 70px; 
+    margin: 5%;
+    text-shadow: 2px 2px 5px red; 
+}
+.main{
+    font-style: oblique;
+    font-size: 70%;
+    color: grey;
+    display:inline;
+    padding-top: 2%;
+    margin: 2%;
+}
+nav div{
+    margin-top: 20px;
+    margin-left: 20px;
+}
+.special{
+    font-style: oblique;
+    color: grey;
+    margin: 2%;
+}
+a{
+    color: aliceblue;
+    font-size: 300%;
+}
+a:hover{
+  
+    color: gray;
+}
+section{
+    font-style: normal;
+    color: aquamarine;
+}
+h2{
+    color: ghostwhite;
+}
+footer{
+    color: ghostwhite;
+}
+
+.main-btn{
+    border: 2% solid pink;
+    padding: 1%;
+    text-shadow: 2px 2px 5px red;
+    color: rgb(235, 235, 253);
+    font-weight: bolder;
+    font-size: 60%;
+    width: 23%;
+    margin: 5%;
+    background-color: transparent;
+    text-decoration-line: none;
+
+}
+.btn{
+    margin-left: 20%;
+    margin-right: 2%;
+}
+.main-btn:hover{
+    opacity: 0.6; 
+    color: gold;
+}
